@@ -20,6 +20,8 @@ input[type="button"] {
   border: 1px black solid;
   display: flex;
   justify-content: flex-end;
+  align-items: flex-end;
+  height: 20px;
   padding: 0px 4px;
   width: 122px
 }
